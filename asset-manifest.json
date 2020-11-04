@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mentech-bs-react/static/css/main.646aeb75.chunk.css",
+    "main.js": "/mentech-bs-react/static/js/main.26492e3e.chunk.js",
+    "main.js.map": "/mentech-bs-react/static/js/main.26492e3e.chunk.js.map",
+    "runtime-main.js": "/mentech-bs-react/static/js/runtime-main.63b64f90.js",
+    "runtime-main.js.map": "/mentech-bs-react/static/js/runtime-main.63b64f90.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/mentech-bs-react/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5aa02353.chunk.js": "/mentech-bs-react/static/js/2.5aa02353.chunk.js",
+    "static/js/2.5aa02353.chunk.js.map": "/mentech-bs-react/static/js/2.5aa02353.chunk.js.map",
+    "index.html": "/mentech-bs-react/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/mentech-bs-react/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.646aeb75.chunk.css.map": "/mentech-bs-react/static/css/main.646aeb75.chunk.css.map",
+    "static/js/2.5aa02353.chunk.js.LICENSE.txt": "/mentech-bs-react/static/js/2.5aa02353.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mentech-bs-react/static/media/robo-hand.765d30e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63b64f90.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5aa02353.chunk.js",
+    "static/css/main.646aeb75.chunk.css",
+    "static/js/main.26492e3e.chunk.js"
+  ]
+}
