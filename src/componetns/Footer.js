@@ -1,5 +1,5 @@
 import React from 'react'
-// import {Container, Row, Col } from 'react-bootstrap';
+import {Nav} from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPhoneAlt, faMapMarkerAlt, faAt} from '@fortawesome/free-solid-svg-icons'
 
@@ -23,7 +23,7 @@ function Footer() {
          </div>
          <div className="text-center p-3 font-weight-light bg-dark">
                © 2020
-            <a className="text-white" href="#">MenTech</a>
+            <Nav.Link href='#' className="text-white" >MenTech</Nav.Link>
          </div>
       </footer>
    )
