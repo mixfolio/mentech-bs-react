@@ -1,6 +1,7 @@
 import React from 'react';
 import Particles from 'react-particles-js'
 import Typed from 'react-typed';
+import RobotAvatar from '../../assets/img/svg/robot-red.svg';
 
 
 function Hero() {
@@ -127,7 +128,7 @@ function Hero() {
 
         className="particles"></Particles>
        <div className="hero-block">
-         <img className="" src="img/robot-red.svg" alt="Robot Avatar" height="96" />
+         <img className="" src={RobotAvatar} alt="Robot Avatar" height="96" />
          <h2 className="h2" style={{ color: '#D04F45' }}>-&nbsp;MAN&nbsp;+TECH&nbsp;-</h2>
          <h4 className="font-weight-normal">
            <Typed strings={[

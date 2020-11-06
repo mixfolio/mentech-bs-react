@@ -70,7 +70,7 @@ body {
   /* height: 100vh; */
   height: 50vh;
   color: #ffffff;
-  background: #000 url(./robo-hand.jpg) no-repeat center center;
+  background: #000 url(./assets/img/robo-hand.jpg) no-repeat center center;
 }
 
 .hero-block {

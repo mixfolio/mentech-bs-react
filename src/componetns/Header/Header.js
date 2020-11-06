@@ -4,12 +4,14 @@ import ModalWindow from '../Modal';
 import Hero from './Hero';
 import ControlledCarousel from '../ControlledCarousel'
 
+import Logo from '../../assets/img/svg/LogoMen.svg'
+
 function Header() {
    return (
       <>
          <Navbar bg="dark" variant="dark" expand="lg"> 
             <Container>
-               <Navbar.Brand className='py-0'><img src="img/svg/LogoMen.svg" height="48" alt="Logo"/></Navbar.Brand>
+               <Navbar.Brand className='py-0'><img src={Logo} height="48" alt="Logo"/></Navbar.Brand>
                <Navbar.Toggle aria-controls="basic-navbar-nav" />
                <Navbar.Collapse>
                   <Nav className='mx-auto'>
