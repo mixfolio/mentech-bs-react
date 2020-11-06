@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mentech-bs-react/static/css/main.55817d9d.chunk.css",
-    "main.js": "/mentech-bs-react/static/js/main.c89e22e4.chunk.js",
-    "main.js.map": "/mentech-bs-react/static/js/main.c89e22e4.chunk.js.map",
+    "main.css": "/mentech-bs-react/static/css/main.ded39549.chunk.css",
+    "main.js": "/mentech-bs-react/static/js/main.4590a32c.chunk.js",
+    "main.js.map": "/mentech-bs-react/static/js/main.4590a32c.chunk.js.map",
     "runtime-main.js": "/mentech-bs-react/static/js/runtime-main.63b64f90.js",
     "runtime-main.js.map": "/mentech-bs-react/static/js/runtime-main.63b64f90.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/mentech-bs-react/static/css/2.20aa2d7b.chunk.css",
@@ -10,15 +10,23 @@
     "static/js/2.2d85f6dd.chunk.js.map": "/mentech-bs-react/static/js/2.2d85f6dd.chunk.js.map",
     "index.html": "/mentech-bs-react/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/mentech-bs-react/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.55817d9d.chunk.css.map": "/mentech-bs-react/static/css/main.55817d9d.chunk.css.map",
+    "static/css/main.ded39549.chunk.css.map": "/mentech-bs-react/static/css/main.ded39549.chunk.css.map",
     "static/js/2.2d85f6dd.chunk.js.LICENSE.txt": "/mentech-bs-react/static/js/2.2d85f6dd.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/mentech-bs-react/static/media/robo-hand.765d30e7.jpg"
+    "static/media/LogoMen.3a609e5c.svg": "/mentech-bs-react/static/media/LogoMen.3a609e5c.svg",
+    "static/media/ai-ico.b3b372ee.svg": "/mentech-bs-react/static/media/ai-ico.b3b372ee.svg",
+    "static/media/brain-ico.e0851b53.svg": "/mentech-bs-react/static/media/brain-ico.e0851b53.svg",
+    "static/media/eye_outlined.1db28da1.svg": "/mentech-bs-react/static/media/eye_outlined.1db28da1.svg",
+    "static/media/head-chip-ico.b14154d2.svg": "/mentech-bs-react/static/media/head-chip-ico.b14154d2.svg",
+    "static/media/mobility-ico.69373ef0.svg": "/mentech-bs-react/static/media/mobility-ico.69373ef0.svg",
+    "static/media/App.css": "/mentech-bs-react/static/media/robo-hand.765d30e7.jpg",
+    "static/media/robot-red.01da9b0d.svg": "/mentech-bs-react/static/media/robot-red.01da9b0d.svg",
+    "static/media/vr-ico.8d350c83.svg": "/mentech-bs-react/static/media/vr-ico.8d350c83.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.63b64f90.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.2d85f6dd.chunk.js",
-    "static/css/main.55817d9d.chunk.css",
-    "static/js/main.c89e22e4.chunk.js"
+    "static/css/main.ded39549.chunk.css",
+    "static/js/main.4590a32c.chunk.js"
   ]
 }
